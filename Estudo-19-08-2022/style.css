@@ -1,0 +1,29 @@
+* {
+    margin:0;
+    padding: 0;   
+}
+
+h1 {
+    color: green;
+    font-size: 72px;
+    font-weight: bold;
+    margin: 0 32px;
+}
+
+p {
+    font-size: 32px;
+    margin: 0 32px;
+}
+
+ul {
+    margin: 0 32px;
+}
+
+ul li {
+    margin: 0 32px;
+    font-size: 46px;
+}
+
+h1:hover {
+    color: blue;
+}
